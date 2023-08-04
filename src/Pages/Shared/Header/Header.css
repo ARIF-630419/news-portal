@@ -1,0 +1,4 @@
+.bg-color {
+  background: var(--dark-07, #F3F3F3);
+  padding: 10px 0;
+}
